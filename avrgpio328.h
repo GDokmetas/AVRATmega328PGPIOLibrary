@@ -1,5 +1,5 @@
-#ifndef BITFIELDARDUINO_H_
-#define BITFIELDARDUINO_H_
+#ifndef AVRGPIO328_H_
+#define AVRGPIO328_H_
 
 #include <avr/io.h>
 /////////// Değer tanımlamaları /////////
@@ -168,4 +168,4 @@ typedef struct
 #define A4_in A4_digitalRead 
 #define A5_in A5_digitalRead 
 
-#endif /* BİTFİELDARDUİNO_H_ */
+#endif // AVRGPIO328_H_
